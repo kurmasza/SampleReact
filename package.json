@@ -2,10 +2,15 @@
   "name": "blog-frontend",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://myrails-kurmasz.codeanyapp.com",
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "reactstrap": "^7.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
